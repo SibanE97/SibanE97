@@ -40,7 +40,7 @@ A relational database that automates student course registration and deregistrat
 Tech: Relational Database Design
 
 🎓 Education
-BSc in Information Technology — University of Eswatini (2020–2025)
 
-EGCSE — St Francis High School (2018–2019)
+1.BSc in Information Technology — University of Eswatini (2020–2025)
+2.EGCSE — St Francis High School (2018–2019)
 
